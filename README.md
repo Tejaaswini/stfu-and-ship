@@ -1,2 +1,2 @@
 # stfu-and-ship
-> a custom chrome extension that blocks pre-determined URLs
+> a custom firefox extension that blocks pre-determined URLs
