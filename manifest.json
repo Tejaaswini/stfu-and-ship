@@ -1,0 +1,11 @@
+{
+  "name": "stfu and work",
+  "version": "1.0",
+  "description": "lets ship",
+  "permissions": ["webRequest", "webRequestBlocking", "<all_urls>", "storage"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+  "manifest_version": 2
+}
